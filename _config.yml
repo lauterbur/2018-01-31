@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "https://github.com/lauterbur/2018-01-31-SBU"
-workshop_site   : "http://datacarpentry.github.io/workshop-template"
+workshop_site   : "https://lauterbur.github.io/2018-01-31-SBU/"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
